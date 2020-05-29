@@ -1,0 +1,38 @@
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\bin\Debug\simulador.exe.config
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\bin\Debug\simulador.exe
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\bin\Debug\simulador.pdb
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.Form1.resources
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.exe
+c:\users\informatica\documents\visual studio 2012\Projects\simulador\simulador\obj\Debug\simulador.pdb
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\bin\Debug\simulador.exe.config
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.exe
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.pdb
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\bin\Debug\simulador.exe
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\bin\Debug\simulador.pdb
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.Form1.resources
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
+\\HBALLESTEROS-PC\Users\Public\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
+\\192.168.1.106\Users\Public\simulador\simulador\bin\Debug\simulador.exe.config
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.exe
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.pdb
+\\192.168.1.106\Users\Public\simulador\simulador\bin\Debug\simulador.exe
+\\192.168.1.106\Users\Public\simulador\simulador\bin\Debug\simulador.pdb
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.Form1.resources
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
+\\192.168.1.106\Users\Public\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\bin\Debug\simulador.exe.config
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\obj\Debug\simulador.exe
+C:\Users\Informatica\Documents\github\simulacion\simulador\simulador\obj\Debug\simulador.pdb
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\bin\Debug\simulador.exe.config
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.exe
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.pdb
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\bin\Debug\simulador.exe
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.csprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.Form1.resources
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
