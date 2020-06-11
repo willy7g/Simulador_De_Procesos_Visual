@@ -314,6 +314,8 @@
             this.label11 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label25 = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCalendarizador)).BeginInit();
             this.panel1.SuspendLayout();
@@ -333,6 +335,7 @@
             this.tabPage2.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -363,13 +366,13 @@
             // recursoToolStripMenuItem
             // 
             this.recursoToolStripMenuItem.Name = "recursoToolStripMenuItem";
-            this.recursoToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.recursoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.recursoToolStripMenuItem.Text = "+ Recurso";
             // 
             // procesoToolStripMenuItem
             // 
             this.procesoToolStripMenuItem.Name = "procesoToolStripMenuItem";
-            this.procesoToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.procesoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.procesoToolStripMenuItem.Text = "+ Proceso";
             // 
             // procesadorToolStripMenuItem
@@ -377,7 +380,7 @@
             this.procesadorToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.elegirProcesadorToolStripMenuItem});
             this.procesadorToolStripMenuItem.Name = "procesadorToolStripMenuItem";
-            this.procesadorToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.procesadorToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.procesadorToolStripMenuItem.Text = "+ Procesador";
             // 
             // elegirProcesadorToolStripMenuItem
@@ -393,34 +396,34 @@
             this.procesosToolStripMenuItem,
             this.procesadoresToolStripMenuItem});
             this.automaticoToolStripMenuItem.Name = "automaticoToolStripMenuItem";
-            this.automaticoToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.automaticoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.automaticoToolStripMenuItem.Text = "+ Automatico";
             // 
             // recursosToolStripMenuItem
             // 
             this.recursosToolStripMenuItem.Name = "recursosToolStripMenuItem";
-            this.recursosToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.recursosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.recursosToolStripMenuItem.Text = "Recursos";
             this.recursosToolStripMenuItem.Click += new System.EventHandler(this.recursosToolStripMenuItem_Click);
             // 
             // procesosToolStripMenuItem
             // 
             this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
-            this.procesosToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.procesosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.procesosToolStripMenuItem.Text = "Procesos";
             this.procesosToolStripMenuItem.Click += new System.EventHandler(this.procesosToolStripMenuItem_Click);
             // 
             // procesadoresToolStripMenuItem
             // 
             this.procesadoresToolStripMenuItem.Name = "procesadoresToolStripMenuItem";
-            this.procesadoresToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.procesadoresToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.procesadoresToolStripMenuItem.Text = "Procesadores";
             this.procesadoresToolStripMenuItem.Click += new System.EventHandler(this.procesadoresToolStripMenuItem_Click);
             // 
             // reiniciarToolStripMenuItem
             // 
             this.reiniciarToolStripMenuItem.Name = "reiniciarToolStripMenuItem";
-            this.reiniciarToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.reiniciarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.reiniciarToolStripMenuItem.Text = "Reiniciar";
             this.reiniciarToolStripMenuItem.Click += new System.EventHandler(this.reiniciarToolStripMenuItem_Click);
             // 
@@ -431,7 +434,7 @@
             this.procesosToolStripMenuItem1,
             this.procesadoresToolStripMenuItem1});
             this.limpiarToolStripMenuItem.Name = "limpiarToolStripMenuItem";
-            this.limpiarToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.limpiarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.limpiarToolStripMenuItem.Text = "Limpiar";
             // 
             // recursosToolStripMenuItem1
@@ -486,7 +489,7 @@
             this.ProcesadorEnUso,
             this.EstadoRecurso,
             this.HilosProcesador});
-            this.dataGridViewCalendarizador.Location = new System.Drawing.Point(87, 47);
+            this.dataGridViewCalendarizador.Location = new System.Drawing.Point(90, 43);
             this.dataGridViewCalendarizador.Name = "dataGridViewCalendarizador";
             this.dataGridViewCalendarizador.RowHeadersVisible = false;
             this.dataGridViewCalendarizador.Size = new System.Drawing.Size(442, 359);
@@ -557,7 +560,9 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.panel1.Controls.Add(this.label25);
+            this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.groupBox40);
             this.panel1.Controls.Add(this.StatusLabelCiclos);
             this.panel1.Controls.Add(this.button1);
@@ -3182,6 +3187,26 @@
             this.timer2.Interval = 40;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::simulador.Properties.Resources.Logo_umg;
+            this.pictureBox1.Location = new System.Drawing.Point(18, 425);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(105, 98);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 208;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.ForeColor = System.Drawing.Color.Snow;
+            this.label25.Location = new System.Drawing.Point(136, 469);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(140, 13);
+            this.label25.TabIndex = 209;
+            this.label25.Text = "Universidad Mariano Galvez";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -3225,6 +3250,7 @@
             this.tabPage3.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -3516,6 +3542,8 @@
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label25;
 
     }
 }

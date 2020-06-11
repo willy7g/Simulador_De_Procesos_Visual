@@ -36,3 +36,4 @@ C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\
 C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.Form1.resources
 C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.Properties.Resources.resources
 C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\obj\Debug\simulador.csproj.GenerateResource.Cache
+C:\Users\willy\Desktop\SIMULADORES\VISUAL\simulacion-master\simulador\simulador\bin\Debug\simulador.pdb
